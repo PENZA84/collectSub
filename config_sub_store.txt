@@ -1,11 +1,9 @@
 -- play_list --
 
-可用流量: 883.17 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
-可用流量: 39.86 GB https://api-jx.02000.xin/jx?token=04f63875079d64fb38b598c8ae689d3c
-可用流量: 13601.09 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 879.29 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
+可用流量: 10392.57 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 
 -- sub_list --
 
 https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
-https://api-jx.02000.xin/jx?token=04f63875079d64fb38b598c8ae689d3c
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
