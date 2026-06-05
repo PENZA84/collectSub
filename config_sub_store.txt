@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 3530.5 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 1932.45 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 
 -- sub_list --
 
