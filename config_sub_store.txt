@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 120.86 GB https://api-jx.02000.xin/jx?token=bb7708b4563de4d41afef87ac1a9675c
-可用流量: 127.0 GB https://api-jx.02000.xin/jx?token=cddd34977922e460afd11a3c40a56969
-可用流量: 76.27 GB https://api-jx.02000.xin/jx?token=dd6e48a0f734bc7bb7b51cbb5f0bfe1b
+可用流量: 98.23 GB https://api-jx.02000.xin/jx?token=cddd34977922e460afd11a3c40a56969
+可用流量: 105.63 GB https://api-jx.02000.xin/jx?token=bb7708b4563de4d41afef87ac1a9675c
+可用流量: 61.57 GB https://api-jx.02000.xin/jx?token=dd6e48a0f734bc7bb7b51cbb5f0bfe1b
 
 -- sub_list --
 
-https://api-jx.02000.xin/jx?token=bb7708b4563de4d41afef87ac1a9675c
 https://api-jx.02000.xin/jx?token=cddd34977922e460afd11a3c40a56969
+https://api-jx.02000.xin/jx?token=bb7708b4563de4d41afef87ac1a9675c
 https://api-jx.02000.xin/jx?token=dd6e48a0f734bc7bb7b51cbb5f0bfe1b
