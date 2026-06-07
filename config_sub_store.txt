@@ -1,7 +1,11 @@
 -- play_list --
 
-可用流量: 19626.39 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 120.86 GB https://api-jx.02000.xin/jx?token=bb7708b4563de4d41afef87ac1a9675c
+可用流量: 127.0 GB https://api-jx.02000.xin/jx?token=cddd34977922e460afd11a3c40a56969
+可用流量: 76.27 GB https://api-jx.02000.xin/jx?token=dd6e48a0f734bc7bb7b51cbb5f0bfe1b
 
 -- sub_list --
 
-https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+https://api-jx.02000.xin/jx?token=bb7708b4563de4d41afef87ac1a9675c
+https://api-jx.02000.xin/jx?token=cddd34977922e460afd11a3c40a56969
+https://api-jx.02000.xin/jx?token=dd6e48a0f734bc7bb7b51cbb5f0bfe1b
