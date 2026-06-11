@@ -1,9 +1,9 @@
 -- play_list --
 
+可用流量: 24494.52 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 可用流量: 1023.19 GB https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=065b35f3d978ac0671e7fb5884a5e74f
-可用流量: 1487.61 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 
 -- sub_list --
 
-https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=065b35f3d978ac0671e7fb5884a5e74f
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=065b35f3d978ac0671e7fb5884a5e74f
