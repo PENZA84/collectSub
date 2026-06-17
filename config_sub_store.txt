@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 2161.87 GB https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
-可用流量: 4230.26 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 1909.72 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 2069.85 GB https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
 
 -- sub_list --
 
-https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
