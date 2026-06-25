@@ -1,6 +1,9 @@
 -- play_list --
 
-
+可用流量: 3245.06 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
+可用流量: 1688.0 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 
 -- sub_list --
 
+https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
+https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
