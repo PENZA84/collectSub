@@ -1,9 +1,11 @@
 -- play_list --
 
-可用流量: 1684.82 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
-可用流量: 1022759.33 GB https://anotherdy.020118119.best/another/5ee81427e90b9c01a2e01a20daf3148e
+可用流量: 1676.56 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
+可用流量: 1022746.94 GB https://anotherdy.020118119.best/another/5ee81427e90b9c01a2e01a20daf3148e
+可用流量: 84.82 GB https://api.jiux001.cc/jx?token=0d98893eaed2dac82b765a7b3da4f2c4
 
 -- sub_list --
 
 https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 https://anotherdy.020118119.best/another/5ee81427e90b9c01a2e01a20daf3148e
+https://api.jiux001.cc/jx?token=0d98893eaed2dac82b765a7b3da4f2c4
