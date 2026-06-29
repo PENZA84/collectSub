@@ -1,15 +1,15 @@
 -- play_list --
 
-可用流量: 96.33 GB http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
+可用流量: 9999626.99 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
+可用流量: 96.18 GB http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999627.38 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
-可用流量: 5601.87 GB https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
-可用流量: 9999481.71 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 5452.89 GB https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
+可用流量: 9999480.37 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
 
 -- sub_list --
 
+https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
 https://www.xrayvip.com/free.txt
-https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
 https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
