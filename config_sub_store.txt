@@ -1,15 +1,9 @@
 -- play_list --
 
-可用流量: 669.98 GB https://sub.xnyun.wiki/xxntoken=/2e7229906b4c6a004986707681edae2a
-可用流量: 46.42 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-可用流量: 100.0 GB http://proxypool.zshabai.cc/
-可用流量: 67.38 GB https://api.jiux001.cc/jx?token=04f63875079d64fb38b598c8ae689d3c
-可用流量: 9999507.62 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
+可用流量: 46.39 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+可用流量: 36.21 GB https://api.jiux001.cc/jx?token=04f63875079d64fb38b598c8ae689d3c
 
 -- sub_list --
 
-https://sub.xnyun.wiki/xxntoken=/2e7229906b4c6a004986707681edae2a
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-http://proxypool.zshabai.cc/
 https://api.jiux001.cc/jx?token=04f63875079d64fb38b598c8ae689d3c
-https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
