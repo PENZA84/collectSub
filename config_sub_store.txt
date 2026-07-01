@@ -1,9 +1,7 @@
 -- play_list --
 
 可用流量: 46.39 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-可用流量: 36.21 GB https://api.jiux001.cc/jx?token=04f63875079d64fb38b598c8ae689d3c
 
 -- sub_list --
 
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-https://api.jiux001.cc/jx?token=04f63875079d64fb38b598c8ae689d3c
