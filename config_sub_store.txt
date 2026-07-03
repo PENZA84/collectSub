@@ -1,11 +1,17 @@
 -- play_list --
 
-可用流量: 11.24 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-可用流量: 16526.16 GB https://ldp2642.brucewang777.eu.cc/sub?token=e286025627fef8a2857a0dd5f21c9a64&amp;clash
+可用流量: 11.23 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+可用流量: 13540.11 GB https://ldp2642.brucewang777.eu.cc/sub?token=e286025627fef8a2857a0dd5f21c9a64&amp;clash
+可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 可用流量: 127.8 GB https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=b34da8ee722f92f1e9b993a10d6b75fe
+可用流量: 284.9 GB https://su.gwzxwk.com/api/v1/client/subscribe?token=ab4a8870d3fb30476ab8cd8c131ea18e
+可用流量: 9999492.74 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
 
 -- sub_list --
 
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 https://ldp2642.brucewang777.eu.cc/sub?token=e286025627fef8a2857a0dd5f21c9a64&amp;clash
+https://www.xrayvip.com/free.txt
 https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=b34da8ee722f92f1e9b993a10d6b75fe
+https://su.gwzxwk.com/api/v1/client/subscribe?token=ab4a8870d3fb30476ab8cd8c131ea18e
+https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
