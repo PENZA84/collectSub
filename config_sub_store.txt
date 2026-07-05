@@ -1,11 +1,13 @@
 -- play_list --
 
-可用流量: 41.4 GB https://dash.pqjc.site/api/v1/pq/253330243f1b11c9899c4bd380abe232
+可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
+可用流量: 9999573.96 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 可用流量: 7.67 GB https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=8ce6818ac3366e7ad615ab69df90348e
-可用流量: 6.89 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+可用流量: 6.85 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 
 -- sub_list --
 
-https://dash.pqjc.site/api/v1/pq/253330243f1b11c9899c4bd380abe232
+https://www.xrayvip.com/free.txt
+https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=8ce6818ac3366e7ad615ab69df90348e
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
