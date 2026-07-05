@@ -1,13 +1,11 @@
 -- play_list --
 
-可用流量: 9999572.82 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
-可用流量: 6.84 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 81.46 GB https://2mmtig2hz0ay3zsilc4shlph5lb3b1eb.skygo0527.top/sun/8742ed637b30fb05efcf216194c92336
+可用流量: 9999572.46 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
+可用流量: 6.84 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 
 -- sub_list --
 
+https://www.xrayvip.com/free.txt
 https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-https://www.xrayvip.com/free.txt
-https://2mmtig2hz0ay3zsilc4shlph5lb3b1eb.skygo0527.top/sun/8742ed637b30fb05efcf216194c92336
