@@ -1,8 +1,8 @@
 -- play_list --
 
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999565.09 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
-可用流量: 192.91 GB https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
+可用流量: 9999564.24 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
+可用流量: 172.79 GB https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
 
 -- sub_list --
 
