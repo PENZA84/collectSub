@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 100.0 GB https://vip.putata.eu.org/zy888
-可用流量: 1406.02 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
+可用流量: 100.0 GB https://vip.putata.eu.org/zy888
+可用流量: 1403.5 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 
 -- sub_list --
 
+https://www.xrayvip.com/free.txt
 https://vip.putata.eu.org/zy888
 https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
-https://www.xrayvip.com/free.txt
