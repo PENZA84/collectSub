@@ -1,17 +1,13 @@
 -- play_list --
 
-可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-可用流量: 62.32 GB https://apa.dyljstar.sbs/s/16fa53bd162a2713318d3fcc4d5a5531
-可用流量: 125.15 GB https://w.12.kg/6/ebfbb4254037abdd59f03747524934a9
-可用流量: 9999385.1 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
-可用流量: 1380.5 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
+可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+可用流量: 14.44 GB https://apa.dyljstar.sbs/s/16fa53bd162a2713318d3fcc4d5a5531
+可用流量: 1377.74 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 
 -- sub_list --
 
+https://www.xrayvip.com/free.txt
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://apa.dyljstar.sbs/s/16fa53bd162a2713318d3fcc4d5a5531
-https://w.12.kg/6/ebfbb4254037abdd59f03747524934a9
-https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
 https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
-https://www.xrayvip.com/free.txt
