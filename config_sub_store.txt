@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 9999787.91 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 可用流量: 102400.0 GB https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
+可用流量: 9999755.64 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 
 -- sub_list --
 
-https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
+https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
