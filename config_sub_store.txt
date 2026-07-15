@@ -1,7 +1,9 @@
 -- play_list --
 
-可用流量: 40.87 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
+可用流量: 31.03 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
+可用流量: 199.7 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 
 -- sub_list --
 
 https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
+https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
