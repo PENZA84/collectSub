@@ -1,7 +1,9 @@
 -- play_list --
 
-可用流量: 81.5 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
+可用流量: 592.59 GB https://windowsv1.com/s/?token=f8832d03b18b6c426714324648a2dfa3
+可用流量: 78.52 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
 
 -- sub_list --
 
+https://windowsv1.com/s/?token=f8832d03b18b6c426714324648a2dfa3
 https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
