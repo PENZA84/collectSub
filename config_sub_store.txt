@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 102400.0 GB https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
+可用流量: 81.5 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
 
 -- sub_list --
 
-https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
+https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
