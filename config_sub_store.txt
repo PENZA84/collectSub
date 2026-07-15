@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 76.3 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
+可用流量: 73.29 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
 
 -- sub_list --
 
