@@ -1,8 +1,8 @@
 -- play_list --
 
-可用流量: 9999289.27 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 298.69 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
-可用流量: 97.38 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
+可用流量: 9999288.3 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 298.53 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 95.46 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 
 -- sub_list --
 
