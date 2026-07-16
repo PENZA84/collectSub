@@ -1,7 +1,9 @@
 -- play_list --
 
-可用流量: 198.78 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 298.78 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 9999291.57 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
 
 -- sub_list --
 
 https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
