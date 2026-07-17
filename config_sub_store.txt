@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 9999284.57 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 17.16 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
-可用流量: 651.38 GB https://windowsv1.com/s/?token=ef4ebba486b282e3270d3fc8d3140f49
+可用流量: 9999284.15 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 417.7 GB https://windowsv1.com/s/?token=ef4ebba486b282e3270d3fc8d3140f49
+可用流量: 17.06 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 
 -- sub_list --
 
 https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 https://windowsv1.com/s/?token=ef4ebba486b282e3270d3fc8d3140f49
+https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
