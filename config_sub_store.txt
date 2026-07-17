@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 9999283.57 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 16.92 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
+可用流量: 9999282.79 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 16.74 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 
 -- sub_list --
 
