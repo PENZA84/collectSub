@@ -1,7 +1,11 @@
 -- play_list --
 
-可用流量: 9999493.54 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+可用流量: 9999492.6 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+可用流量: 4808584.48 GB https://mar.bbc.xx.kg/?b64
 
 -- sub_list --
 
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+https://mar.bbc.xx.kg/?b64
