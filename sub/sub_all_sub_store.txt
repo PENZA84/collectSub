@@ -8,9 +8,9 @@ https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c&amp;flag=meta
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
 https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
-https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 https://platform.djjc.cfd/api/v1/client/subscribe?token=78e9584e3441954bea5ac3d00a43b27d&amp;flag=meta
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
+https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://ymjc.cfd/api/v1/client/subscribe?token=c059e92bab1fbb45334f987a38dd2772
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://bujidao.cc/sub?key=vt8Qlku9OczyJt6JI1Eqb6ZeQlgehqEo
@@ -28,11 +28,9 @@ https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
 https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
-https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
 https://NcLAhc.subxly.cfd:8443/api/v1/client/e5af9bc2d642948f3a0ee39d4a86a5d8
-https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
@@ -48,6 +46,7 @@ https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
 https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
+https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
 
 
 -- sub_list --
@@ -2103,6 +2102,7 @@ https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
 https://s2.equinoxaa.com/api/v1/client/subscribe?token=5618d769510296286fabcb4153788ab1
 https://s2.sub.gfw.gg/api/v1/client/subscribe?token=7c6585594a34696cab5d17593d4e3323
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
+https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
 https://s6.ssysub1.xyz/api/v1/client/subscribe?token=19e3b3dc00de57160368180b3ce71744
 https://s6.ssysub1.xyz/api/v1/client/subscribe?token=448b65c84c6fdbc7bd928b0b1da328fd
 https://s6.ssysub1.xyz/api/v1/client/subscribe?token=b8b3f3b6a5d2b97e5cd5511a2f40aa80
