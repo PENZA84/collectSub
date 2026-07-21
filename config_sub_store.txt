@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 296.69 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-可用流量: 5401909.67 GB https://mar.bbc.xx.kg/?b64
+可用流量: 296.07 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 4976007.22 GB https://mar.bbc.xx.kg/?b64
 
 -- sub_list --
 
-https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 https://mar.bbc.xx.kg/?b64
