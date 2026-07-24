@@ -1,9 +1,11 @@
 -- play_list --
 
-可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-可用流量: 291.0 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 1088.85 GB https://ymjc.cfd/api/v1/client/subscribe?token=7b500bea4f0846172de01a028d86cb04
+可用流量: 288.79 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 7.73 GB https://ymjc.cfd/api/v1/client/subscribe?token=26f4ed87ca0fe7b1a59317c70c24f35c
 
 -- sub_list --
 
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://ymjc.cfd/api/v1/client/subscribe?token=7b500bea4f0846172de01a028d86cb04
 https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+https://ymjc.cfd/api/v1/client/subscribe?token=26f4ed87ca0fe7b1a59317c70c24f35c
