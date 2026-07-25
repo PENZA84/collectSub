@@ -1,15 +1,15 @@
 -- play_list --
 
 可用流量: 1088.85 GB https://ymjc.cfd/api/v1/client/subscribe?token=7b500bea4f0846172de01a028d86cb04
+可用流量: 281.56 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 可用流量: 1088.85 GB https://ymjc.cfd/api/v1/client/subscribe?token=7b500bea4f0846172de01a028d86cb04#https://v1.mk/LNSNGVs
-可用流量: 3891.75 GB http://101.34.215.56:8848/s/17db993eae833635511446f3043397f7
-可用流量: 281.7 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 3837.62 GB http://101.34.215.56:8848/s/17db993eae833635511446f3043397f7
 可用流量: 1022976.0 GB https://open.edu-uk.kdns.fr/sub/user/eyJ1IjoiNzc3NyIsImUiOjI0NTY2ODY1ODk5OTUsInMiOiI4YWJjM2Y0Yzk1NDA2NjUyIn0?protocol=default
 
 -- sub_list --
 
 https://ymjc.cfd/api/v1/client/subscribe?token=7b500bea4f0846172de01a028d86cb04
+https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 https://ymjc.cfd/api/v1/client/subscribe?token=7b500bea4f0846172de01a028d86cb04#https://v1.mk/LNSNGVs
 http://101.34.215.56:8848/s/17db993eae833635511446f3043397f7
-https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
 https://open.edu-uk.kdns.fr/sub/user/eyJ1IjoiNzc3NyIsImUiOjI0NTY2ODY1ODk5OTUsInMiOiI4YWJjM2Y0Yzk1NDA2NjUyIn0?protocol=default
