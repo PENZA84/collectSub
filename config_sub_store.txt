@@ -1,7 +1,9 @@
 -- play_list --
 
-可用流量: 4747.41 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+可用流量: 4730.64 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+可用流量: 6842627.08 GB https://mar.bbc.xx.kg/?b64
 
 -- sub_list --
 
 https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+https://mar.bbc.xx.kg/?b64
