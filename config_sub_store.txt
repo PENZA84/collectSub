@@ -1,8 +1,8 @@
 -- play_list --
 
-可用流量: 256.01 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
-可用流量: 4837.93 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
-可用流量: 6108333.35 GB https://mar.bbc.xx.kg/?b64
+可用流量: 255.11 GB https://dy.veri-tickets.top/rocket/66a3a870ece9ba4e4aec404a8a5f2e6e
+可用流量: 4779.2 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+可用流量: 5285793.58 GB https://mar.bbc.xx.kg/?b64
 
 -- sub_list --
 
