@@ -1,7 +1,6 @@
 -- play_list --
 
-可用流量: 4750030.41 GB https://mar.bbc.xx.kg/?b64
+
 
 -- sub_list --
 
-https://mar.bbc.xx.kg/?b64
